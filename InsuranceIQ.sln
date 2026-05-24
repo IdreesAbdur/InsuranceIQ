@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsuranceIQ.Web", "src\InsuranceIQ.Web\InsuranceIQ.Web.csproj", "{4A0AA2BC-E492-42EC-9A52-4A4EDBAAB34E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsuranceIQ.Core", "src\InsuranceIQ.Core\InsuranceIQ.Core.csproj", "{318CCB7D-059B-4CDA-9707-D1AF6A3DF0F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsuranceIQ.Data", "src\InsuranceIQ.Data\InsuranceIQ.Data.csproj", "{D3B54D48-BDC4-4673-B057-2DCAA476DDD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A0AA2BC-E492-42EC-9A52-4A4EDBAAB34E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A0AA2BC-E492-42EC-9A52-4A4EDBAAB34E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A0AA2BC-E492-42EC-9A52-4A4EDBAAB34E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A0AA2BC-E492-42EC-9A52-4A4EDBAAB34E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{318CCB7D-059B-4CDA-9707-D1AF6A3DF0F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{318CCB7D-059B-4CDA-9707-D1AF6A3DF0F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{318CCB7D-059B-4CDA-9707-D1AF6A3DF0F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{318CCB7D-059B-4CDA-9707-D1AF6A3DF0F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3B54D48-BDC4-4673-B057-2DCAA476DDD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B54D48-BDC4-4673-B057-2DCAA476DDD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B54D48-BDC4-4673-B057-2DCAA476DDD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B54D48-BDC4-4673-B057-2DCAA476DDD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

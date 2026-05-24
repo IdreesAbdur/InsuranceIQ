@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <ItemGroup>
+      <ProjectReference Include="..\InsuranceIQ.Core\InsuranceIQ.Core.csproj" />
+      <ProjectReference Include="..\InsuranceIQ.Data\InsuranceIQ.Data.csproj" />
+    </ItemGroup>
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+</Project>
